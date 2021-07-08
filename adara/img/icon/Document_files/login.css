@@ -1,0 +1,9 @@
+.contact{
+
+}
+
+.contact-wrap{
+    position: absolute;
+    top: calc(100%/7);
+    left: calc(100%/3);
+}
